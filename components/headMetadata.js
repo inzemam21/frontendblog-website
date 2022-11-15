@@ -5,7 +5,7 @@ export default class extends Component {
   render() {
     return (
       <Head>
-        <meta name="google-site-verification" content="google89e5e76e2a4a1b48" />
+        <meta name="google-site-verification" content="A_gh6Y3y1ECNM8VkxuAS-2X3p13WIeLxM0WqaRkMPhA" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
