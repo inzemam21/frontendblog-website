@@ -17,7 +17,19 @@ export default class extends Component {
           <div className="about-section">
             <h1>About Me</h1>
             <p>I’m Inzimam ul haq, a full stack software developer and technical writer.</p>
-            <p>I started this website as a place to document everything I learned while going through a career change. I learn in public and write about everything I know.</p>
+            <p>As a full-stack developer specializing in backend development, 
+              I've spent years honing my skills and crafting exceptional digital 
+              experiences for clients across a variety of industries. 
+              Whether it's building custom software solutions, optimizing database performance, 
+              or designing scalable architectures, I'm passionate about using technology to solve
+               complex problems and drive business success.
+               </p>
+            <p>
+            But my work isn't just about writing code. I believe that the best development projects are grounded in clear communication, collaboration, and a deep understanding of a client's needs and goals. That's why I always take the time to listen carefully, ask questions, and ensure that I'm delivering solutions that are tailored to each client's unique needs.
+            </p>
+            <p>
+            Thank you for visiting my blog, and I hope you find the information and resources here useful. If you have any questions or would like to discuss a project, please don't hesitate to get in touch. I'd love to hear from you!
+            </p>
           </div>
           <div className="about-section">
             <h2>My Projects</h2>
